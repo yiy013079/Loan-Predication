@@ -1,1 +1,2 @@
 # Loan-Predication
+This project develops a binomial classification model for predicting loan approvals using historical data. Exploratory Data Analysis revealed key factors such as credit scores, past defaults, and interest rates influencing loan outcomes. Using lPrincipal Component Analysis, the features were reduced to 13 while retaining 91.5% of data variance. Finally the model achieved 89% accuracy and a 95% ROC-AUC score, validated through cross-validation for stability. 
